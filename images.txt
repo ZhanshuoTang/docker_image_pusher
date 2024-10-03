@@ -4,3 +4,4 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+comojin1994/cu11.2-ubuntu-18.04-pytorch-1.10.0
